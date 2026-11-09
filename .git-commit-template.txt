@@ -1,0 +1,6 @@
+# <type>(<scope>): <short summary>
+
+- **Added:** 
+- **Changed:** 
+- **Fixed:** 
+- **Removed:**
